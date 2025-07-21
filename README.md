@@ -63,7 +63,7 @@ The project workflow follows these main steps:
 
 ## 📎 Repository Structure
 ├── Data/ # Dataset files
-├── house_prediction.ipynb // Main Notebook
+├── house_price_prediction // Main Notebook
 ├── README.md # Project overview and instructions
 └── requirements.txt # Python dependencies
 
